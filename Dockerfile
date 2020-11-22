@@ -1,5 +1,5 @@
 FROM php:7.4-cli
-RUN apk add --update git
+RUN git pull
 COPY . /usr/src/myapp
 WORKDIR /usr/src/myapp
 
