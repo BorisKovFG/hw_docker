@@ -1,5 +1,6 @@
 FROM php:7.4-cli
+RUN apk add --update git
 COPY . /usr/src/myapp
 WORKDIR /usr/src/myapp
-EXPOSE 8080
+
 CMD [ "php", "./hw_v1.php" ]
