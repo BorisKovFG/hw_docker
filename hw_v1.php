@@ -1,5 +1,5 @@
 <?php
-$handle = fopen("/file.txt", "w+");
+$handle = fopen("/file.txt", "x+");
 fwrite($handle, "hello");
 
 
