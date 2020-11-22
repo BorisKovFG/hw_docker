@@ -1,3 +1,6 @@
 <?php
-    print_r("Hello, world!!!!!! \n");
+$handle = fopen("/file.txt", "w+");
+fwrite($handle, "hello");
+
+
 
