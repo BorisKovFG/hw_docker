@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="001aa2d7-656c-4f8a-a634-42a677e0f149" name="Default Changelist" comment="edit php file">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hw_docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kc4QYaTdbKwRUEwSeJpWlzqVNS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hw_docker" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.hw_docker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="001aa2d7-656c-4f8a-a634-42a677e0f149" name="Default Changelist" comment="" />
+      <created>1605986529613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605986529613</updated>
+      <workItem from="1605986530803" duration="4194000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit from phpstorm">
+      <created>1605986918376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605986918376</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Dockerfile">
+      <created>1605987574705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605987574705</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit Dockerfile, add EXPOSE">
+      <created>1606077839343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606077839343</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit Dockerfile">
+      <created>1606079670352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606079670352</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit Dockerfile">
+      <created>1606079765597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606079765597</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit Dockerfile">
+      <created>1606079922768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606079922768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit php file">
+      <created>1606079999993</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606079999993</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edit php file">
+      <created>1606081969439</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606081969440</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edit php file">
+      <created>1606082859410</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606082859410</updated>
+    </task>
+    <task id="LOCAL-00010" summary="edit php file">
+      <created>1606082938374</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606082938374</updated>
+    </task>
+    <task id="LOCAL-00011" summary="edit php file">
+      <created>1606083038778</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606083038778</updated>
+    </task>
+    <task id="LOCAL-00012" summary="edit php file">
+      <created>1606083352719</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606083352719</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/b.greff/hw_docker/res" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit from phpstorm" />
+    <MESSAGE value="add Dockerfile" />
+    <MESSAGE value="edit Dockerfile, add EXPOSE" />
+    <MESSAGE value="edit Dockerfile" />
+    <MESSAGE value="edit php file" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit php file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="387" key="NewPhpFileDialog" timestamp="1605986570955">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="633" y="387" key="NewPhpFileDialog/0.23.1440.828@0.23.1440.828" timestamp="1605986570955" />
+    <state x="332" y="156" key="Vcs.Push.Dialog.v2" timestamp="1606083569886">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1606083569886" />
+    <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1606080003344" />
+    <state x="636" y="358" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606024072600">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="636" y="358" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.828@0.23.1440.828" timestamp="1606024072600" />
+  </component>
+</project>
