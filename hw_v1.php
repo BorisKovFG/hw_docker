@@ -1,5 +1,5 @@
 <?php
-    print_r(date('l jS \of F Y h:i:s A'). "\n");
+    print_r(date_default_timezone_get(). "\n");
 
 
 
