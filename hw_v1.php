@@ -1,5 +1,5 @@
 <?php
-    print_r(date(DATE_RFC822). "\n");
+    print_r(date('l jS \of F Y h:i:s A'). "\n");
 
 
 
