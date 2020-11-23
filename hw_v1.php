@@ -1,3 +1,3 @@
 <?php
-    $now = date_default_timezone_get();
-    print_r($now . "\n");
+    $number = rand();
+    print_r($number . "\n");

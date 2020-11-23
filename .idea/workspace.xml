@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605986529613</updated>
-      <workItem from="1605986530803" duration="7166000" />
+      <workItem from="1605986530803" duration="7384000" />
     </task>
     <task id="LOCAL-00001" summary="first commit from phpstorm">
       <created>1605986918376</created>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606154297284</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="edit date">
+      <created>1606154992438</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606154992438</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,10 +279,10 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="233" y="55" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1606084174664" />
-    <state x="332" y="156" key="Vcs.Push.Dialog.v2" timestamp="1606154299467">
+    <state x="332" y="156" key="Vcs.Push.Dialog.v2" timestamp="1606155012445">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1606154299467" />
+    <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1606155012445" />
     <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1606080003344" />
     <state x="636" y="358" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606024072600">
       <screen x="0" y="23" width="1440" height="828" />
