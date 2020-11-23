@@ -1,5 +1,6 @@
 FROM php:7.4-cli
-COPY . /usr/src/myapp
-WORKDIR /usr/src/myapp
+RUN mkdir -p /usr/src/app/
+COPY . /usr/src/app
+WORKDIR /usr/src/app
 
 CMD [ "php", "./hw_v1.php" ]
