@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="001aa2d7-656c-4f8a-a634-42a677e0f149" name="Default Changelist" comment="edit var">
+      <change afterPath="$PROJECT_DIR$/res/a.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_v1.php" beforeDir="false" afterPath="$PROJECT_DIR$/hw_v1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605986529613</updated>
-      <workItem from="1605986530803" duration="7780000" />
+      <workItem from="1605986530803" duration="8678000" />
     </task>
     <task id="LOCAL-00001" summary="first commit from phpstorm">
       <created>1605986918376</created>
@@ -215,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606155201087</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="edit var">
+      <created>1606156656944</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606156656944</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,10 +295,10 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="233" y="55" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1606084174664" />
-    <state x="332" y="156" key="Vcs.Push.Dialog.v2" timestamp="1606155204448">
+    <state x="332" y="156" key="Vcs.Push.Dialog.v2" timestamp="1606156659242">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1606155204448" />
+    <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1606156659242" />
     <state x="332" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1606080003344" />
     <state x="636" y="358" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606024072600">
       <screen x="0" y="23" width="1440" height="828" />

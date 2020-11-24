@@ -1,3 +1,4 @@
 <?php
-    $number = rand();
-    print_r($number . "\n");
+    $fp = fopen('res/counter.txt', 'w');
+
+
